@@ -16,7 +16,7 @@ proxy-providers:
     interval: 3600 
     health-check:
       enable: true
-      url: https://nn0310.xn--8stx8olrwkucjq3b.com/link/Sp0yGMhzYTN22jtm?clash=1
+      url: https://substore.fukbili.shop/9bs6aKqYKQf3UkQPHbx6/download/cs?target=ClashMeta
       interval: 300
 proxy-groups:
   - name: PROXY

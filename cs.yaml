@@ -16,7 +16,7 @@ proxy-providers:
     interval: 3600 
     health-check:
       enable: true
-      url: http://www.gstatic.com/generate_204
+      url: https://nn0310.xn--8stx8olrwkucjq3b.com/link/Sp0yGMhzYTN22jtm?clash=1
       interval: 300
 proxy-groups:
   - name: PROXY
